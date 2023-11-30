@@ -25,4 +25,4 @@ Light Mode
 ![image](https://github.com/nathanielnosa/admin-dashboard/assets/52939265/27dcf0ed-346a-48a9-9082-031436d43d19)
 
 # Link To demo 
-https://ndashborad.netlify.app/
+https://ndashboard.netlify.app/
